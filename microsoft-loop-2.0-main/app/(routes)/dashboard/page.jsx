@@ -16,8 +16,6 @@ function Dashboard() {
     the new updates form branch 22
     7878787878787878787878
     8989898989898989898989
-    1010101010101010101010
-    000000000000000000000
       <WorkspaceList/>
     </div>
   )
